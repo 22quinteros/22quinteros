@@ -1,7 +1,6 @@
-## Hi there! My name is Sam 👋
+## Hi there! My name is Sam 👋  
 
-###I'm a fourth-year mechanical engineering student! 
-###I'm interestred in vibroacoustics and lean systems
+I'm a fourth-year mechanical engineering student, and I'm interestred in vibroacoustics and lean systems. I'm not the most experienced with coding, so I mainly do basic stuff in python to help me automate various things. 🔥Fun Fact🔥: I play trombone
 
 <!--
 **22quinteros/22quinteros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
